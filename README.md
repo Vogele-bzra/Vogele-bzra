@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix Vogele</h1>
 <h3 align="center">A software engineer student from Switzerland</h3>
 
-- 🔭 I’m currently working on **ApexTracker**
+- I am currently trying to learn python 
 
 - Finished Projects [FC Bayern Fan Page](https://fcbayern-fanpage.netlify.app/)  ApexTracker
 
